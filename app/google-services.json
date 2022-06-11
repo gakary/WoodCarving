@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264219851108",
+    "project_id": "newwood-ff6d1",
+    "storage_bucket": "newwood-ff6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264219851108:android:3af0d349c1881c787be271",
+        "android_client_info": {
+          "package_name": "com.example.newwood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264219851108-o2g3sremg5cjj0929stbahljt0bkakc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newwood",
+            "certificate_hash": "a558eabc8d934dd0fe1d9448fd2c23d7d10519f7"
+          }
+        },
+        {
+          "client_id": "264219851108-6up5kvd1j1u7htsf71t2p4h7m6p4f557.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_Iiu7hA79Pn2iHZ4xHVhYl4H_uOAFU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264219851108-6up5kvd1j1u7htsf71t2p4h7m6p4f557.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
