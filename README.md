@@ -5,6 +5,8 @@ I designed a mobile application to help the Wood Carving Technique traditional i
 The Application that called "NewWood"
 
 
+The whole project basically developed in Kotlin and sotre data in Firebase
+
 <h1>Applications</h1>
 
 Before going to the main page it will displays the splash page
